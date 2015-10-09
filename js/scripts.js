@@ -5,7 +5,7 @@ $(document).ready(function() {
     var favBandInput = $("input#favband").val();
     var favFoodInput = $("input#favfood").val();
     var favPhoneInput = $("input#favphone").val();
-    var favHobbyInput = $("input#favehobby").val();
+    var favHobbyInput = $("input#favhobby").val();
     var favPersonInput = $("input#favperson").val();
 
     $(".favcolor").text(favColorInput);
