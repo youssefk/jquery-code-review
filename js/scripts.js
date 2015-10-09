@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("#blanks form").submit(function() {
+  $("#blanks form").submit(function(event) {
     var favColorInput = $("input#favcolor").val();
     var favAnimalInput = $("input#favanimal").val();
     var favBandInput = $("input#favband").val();
