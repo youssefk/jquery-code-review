@@ -1,3 +1,7 @@
 #favlist {
   display: none;
 }
+
+body {
+  background-color: #DEF6F6;
+}
